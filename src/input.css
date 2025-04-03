@@ -13,7 +13,7 @@
 
 @layer base {
     body {
-        @apply min-h-screen grid content-center font-primary px-8 bg-theme-white tracking-[-1%] text-theme-black text-pretty;
+        @apply font-primary px-8 bg-theme-white tracking-[-1%] text-theme-black text-pretty;
     }
 }
   

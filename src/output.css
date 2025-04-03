@@ -308,9 +308,6 @@
 }
 @layer base {
   body {
-    display: grid;
-    min-height: 100vh;
-    align-content: center;
     background-color: var(--color-theme-white);
     padding-inline: calc(var(--spacing) * 8);
     font-family: var(--font-primary);
